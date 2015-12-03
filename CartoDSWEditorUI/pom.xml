@@ -22,7 +22,7 @@
 		<version>2.5.6</version>
 	</dependency>
  
-    <!-- Spring MVC framework --> 
+    <!-- Spring MVC framework addition --> 
 	<dependency>
 		<groupId>org.springframework</groupId>
 		<artifactId>spring-webmvc</artifactId>
