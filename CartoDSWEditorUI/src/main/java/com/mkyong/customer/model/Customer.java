@@ -1,5 +1,5 @@
 package com.mkyong.customer.model;
-
+//changes for merge and develop
 public class Customer{
 	
 	String userName;
